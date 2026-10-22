@@ -1,4 +1,4 @@
-# Transfer Learning and Fine-Tuning
+# Transfer Learning and Fine-Tuning:
 
 A structured, hands-on exploration of adapting pretrained models to new tasks across computer vision and natural language processing.
 
