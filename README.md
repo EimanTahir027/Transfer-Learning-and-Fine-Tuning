@@ -319,8 +319,6 @@ Before opening a pull request:
 
 Refer to the repository's LICENSE file for usage and redistribution terms.
 
-If no license has been added, do not assume that open-source permissions have been granted. Third-party datasets, pretrained models, and dependencies remain subject to their respective licenses.
-
 ## Maintainer
 
 Eiman Tahir  
