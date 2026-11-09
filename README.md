@@ -53,7 +53,7 @@ Explore how pretrained image models can be adapted to a new classification task.
 Topics:
 
 - Selecting a pretrained backbone.
-- Matching image preprocessing to the selected model.
+- Matching image preprocessing to the selected model. 
 - Replacing the classification head.
 - Training a task-specific head with a frozen backbone.
 - Maintaining consistent class mappings.
