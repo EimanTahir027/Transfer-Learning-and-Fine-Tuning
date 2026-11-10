@@ -301,7 +301,7 @@ Project reports should discuss:
 
 Results in this repository should be interpreted within the scope of the documented experiments, not as general production-readiness claims.
 
-## Contributing
+## Contributing :
 
 Contributions that improve clarity, correctness, reproducibility, or experimental coverage are welcome.
 
