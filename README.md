@@ -33,7 +33,7 @@ This is an educational and experimental repository. Production deployment, opera
 | 6 | Domain Adaptation and Transfer Learning Challenges | Distribution shift, negative transfer, and adaptation limitations |
 | 7 | Custom-Task Project | An end-to-end adaptation experiment with documented results |
 
-### Day 1 — Introduction to Transfer Learning
+###  1 — Introduction to Transfer Learning
 
 Establish the terminology and decision-making framework used throughout the repository.
 
@@ -46,7 +46,7 @@ Topics:
 - Dataset size and task similarity.
 - Baseline selection and experimental comparisons.
 
-### Day 2 — Transfer Learning in Computer Vision
+### 2 — Transfer Learning in Computer Vision
 
 Explore how pretrained image models can be adapted to a new classification task.
 
@@ -59,7 +59,7 @@ Topics:
 - Maintaining consistent class mappings.
 - Evaluating an initial transfer learning baseline.
 
-### Day 3 — Fine-Tuning Techniques in Computer Vision
+###  3 — Fine-Tuning Techniques in Computer Vision
 
 Move beyond a frozen feature extractor and examine selective adaptation.
 
@@ -72,7 +72,7 @@ Topics:
 - Applying task-appropriate augmentation and regularization.
 - Comparing improvements against training cost.
 
-### Day 4 — Transfer Learning in NLP
+###  4 — Transfer Learning in NLP
 
 Explore how pretrained language models can support downstream text tasks.
 
@@ -85,7 +85,7 @@ Topics:
 - Label encoding and dataset preparation.
 - Building an initial downstream-task baseline.
 
-### Day 5 — Fine-Tuning Techniques in NLP
+### 5 — Fine-Tuning Techniques in NLP
 
 Develop a controlled workflow for adapting language models.
 
@@ -99,7 +99,7 @@ Topics:
 - Saving the model, tokenizer, and label mapping.
 - Reviewing task-specific errors.
 
-### Day 6 — Domain Adaptation and Transfer Learning Challenges
+### 6 — Domain Adaptation and Transfer Learning Challenges
 
 Investigate where pretrained knowledge helps and where it may fail.
 
@@ -113,7 +113,7 @@ Topics:
 - Computational and licensing constraints.
 - Evaluating performance on relevant target-domain examples.
 
-### Day 7 — Custom-Task Project
+###  7 — Custom-Task Project
 
 Bring the learning modules together in one documented experiment.
 
