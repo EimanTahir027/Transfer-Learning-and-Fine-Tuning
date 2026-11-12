@@ -167,7 +167,7 @@ Keep downloaded datasets, model checkpoints, credentials, and generated caches o
 ### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/EimanTahir027/Transfer-Learning-and-Fine-Tuning.git](https://github.com/EimanTahir027/Transfer-Learning-and-Fine-Tuning.git)
+git clone https://github.com/EimanTahir027/Transfer-Learning-and-Fine-Tuning.git
 cd Transfer-Learning-and-Fine-Tuning
 ```
 
