@@ -6,7 +6,7 @@ This repository follows a seven-day learning path covering transfer learning fun
 
 The goal is not simply to train a model, but to understand what to reuse, what to update, how to evaluate the result, and when adaptation is worth the added complexity.
 
-## Project Scope
+## Project Scope:
 
 The curriculum focuses on:
 
