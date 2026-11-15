@@ -142,8 +142,8 @@ Transfer-Learning-and-Fine-Tuning/
 ├── .gitignore
 ├── notebooks/
 │   ├── day-01-introduction/
-│   ├── day-02-computer-vision-transfer-learning/
-│   ├── day-03-computer-vision-fine-tuning/
+│   ├── 02-computer-vision-transfer-learning/
+│   ├── 03-computer-vision-fine-tuning/
 │   ├── day-04-nlp-transfer-learning/
 │   ├── day-05-nlp-fine-tuning/
 │   ├── day-06-domain-adaptation/
