@@ -144,7 +144,7 @@ Transfer-Learning-and-Fine-Tuning/
 │   ├── day-01-introduction/
 │   ├── 02-computer-vision-transfer-learning/
 │   ├── 03-computer-vision-fine-tuning/
-│   ├── day-04-nlp-transfer-learning/
+│   ├─-04-nlp-transfer-learning/
 │   ├── day-05-nlp-fine-tuning/
 │   ├── day-06-domain-adaptation/
 │   └── day-07-custom-task-project/
