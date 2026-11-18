@@ -146,7 +146,7 @@ Transfer-Learning-and-Fine-Tuning/
 │   ├── 03-computer-vision-fine-tuning/
 │   ├─-04-nlp-transfer-learning/
 │   ├─-05-nlp-fine-tuning/
-│   ├── day-06-domain-adaptation/
+│   ├─-06-domain-adaptation/
 │   └── day-07-custom-task-project/
 ├── src/
 │   ├── data/
