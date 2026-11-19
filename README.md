@@ -147,7 +147,7 @@ Transfer-Learning-and-Fine-Tuning/
 │   ├─-04-nlp-transfer-learning/
 │   ├─-05-nlp-fine-tuning/
 │   ├─-06-domain-adaptation/
-│   └── day-07-custom-task-project/
+│   └─-07-custom-task-project/
 ├── src/
 │   ├── data/
 │   ├── models/
