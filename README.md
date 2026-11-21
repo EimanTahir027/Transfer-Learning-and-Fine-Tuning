@@ -191,6 +191,7 @@ Activate it in Windows PowerShell:
 
 ### 3. Install the dependencies for the selected module
 
+
 Follow the dependency instructions provided with the notebook or project you intend to run.
 
 Dependency versions should be recorded as implementations are added. Do not assume that every module requires the same framework or hardware configuration.
