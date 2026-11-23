@@ -255,7 +255,7 @@ Populate this table with measured results. Do not treat placeholders as benchmar
 
 Accompany results with a short error analysis describing failure patterns and remaining limitations.
 
-## Engineering Standards
+## Engineering Standards:
 
 ### Maintainability
 
