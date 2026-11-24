@@ -80,6 +80,6 @@ When you are creating an issue, make sure it's not already present. Furthermore,
   - Notes (possibly including why you think this might be happening, or stuff you tried that didn't work)
 
 
-## License
+## License:
 
 By contributing, you agree that your contributions will be licensed under its  [MIT License](http://choosealicense.com/licenses/mit/).
