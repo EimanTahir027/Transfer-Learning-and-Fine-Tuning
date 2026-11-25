@@ -65,7 +65,7 @@ We love your input! We want to make contributing to this project as easy and tra
 - Make sure your code properly formatted.
 - Issue that pull request!
 
-## Issue suggestions/Bug reporting
+## Issue suggestions/Bug reporting:
 
 When you are creating an issue, make sure it's not already present. Furthermore, provide a proper description of the changes. If you are suggesting any code improvements, provide through details about the improvements.
 
