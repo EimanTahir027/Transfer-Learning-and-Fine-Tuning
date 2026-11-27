@@ -67,6 +67,3 @@ All complaints will be reviewed and investigated promptly and fairly.
 
 **Consequence:** Permanent removal from participation in the repository.
 
-## Attribution
-
-This Code of Conduct is adapted for educational and open-source use.
